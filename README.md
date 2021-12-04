@@ -9,13 +9,13 @@ Import the math module to use the built-in function for calculation.
 Prepare the list from each linear equation 
 ### Step 3: 
 Substitute the values in the distance formula  
-![formula](/formula.jpg)
+![formula](formula.png)
 ### Step 4: 
 Print the ouput with only two decimals('{:.2f}).
 ### Step 5:
 End the program. 
 ### PROGRAM:
- ```
+```
 import math 
 d2=[10,6]
 d1=[4,2]
